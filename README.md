@@ -1,3 +1,5 @@
+Predix Machine Learning Microservice Sample
+
 This repository is the sample machine learning microservice made in Flask & Python. This microservice predicts the class of flower from famous iris datasert by giving input parameters sepal_length,sepal_width,petal_length,petal_width.
 
 steps to deploy on cloud:
