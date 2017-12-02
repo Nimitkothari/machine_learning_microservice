@@ -1,0 +1,5 @@
+applications:
+  - name: microservice_sample
+    buildpack: python_buildpack
+    memory: 256M
+    stack: cflinuxfs2
